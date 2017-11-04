@@ -11,7 +11,9 @@ import sys
 import datetime
 import locale as _locale
 from itertools import repeat
-import numpy as py1
+import numpy as np
+print(np.sin(0))
+    
 
 
 
